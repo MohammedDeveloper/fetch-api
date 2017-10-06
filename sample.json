@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Steve Jobs",
+        "company": "Apple"
+    },
+    {
+        "id": 2,
+        "name": "Sundar Pichai",
+        "company": "Google"
+    },
+    {
+        "id": 3,
+        "name": "Satya Nadella",
+        "company": "Microsoft"
+    }
+]
